@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="100%" height="100%" fill="#f7f9fc"/>
+  <text x="400" y="60" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold" fill="#1f2937">Retail Sales EDA Preview</text>
+  <line x1="120" y1="400" x2="700" y2="400" stroke="#4b5563" stroke-width="2"/>
+  <line x1="120" y1="400" x2="120" y2="120" stroke="#4b5563" stroke-width="2"/>
+  <polyline points="120,360 220,320 320,300 420,240 520,180 620,140 700,120" fill="none" stroke="#4C78A8" stroke-width="5"/>
+  <circle cx="120" cy="360" r="6" fill="#4C78A8"/>
+  <circle cx="220" cy="320" r="6" fill="#4C78A8"/>
+  <circle cx="320" cy="300" r="6" fill="#4C78A8"/>
+  <circle cx="420" cy="240" r="6" fill="#4C78A8"/>
+  <circle cx="520" cy="180" r="6" fill="#4C78A8"/>
+  <circle cx="620" cy="140" r="6" fill="#4C78A8"/>
+  <circle cx="700" cy="120" r="6" fill="#4C78A8"/>
+</svg>
